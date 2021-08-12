@@ -1,7 +1,7 @@
 This is a STM32F030F4 VGA library + project for HaD 2016 Contest Entry.
 
 Project webpage: 
-https://hackaday.io/project/9992
+https://hw-by-design.blogspot.com/2018/07/low-cost-vga-terminal-module-project.html
 
 The individual license(s) are in each directories.
 
@@ -19,7 +19,7 @@ http://www.pellesc.de/index.php?page=start&lang=en
 http://www.mikroe.com/glcd-font-creator/
 
 - Project webpage:
-https://hackaday.io/project/9992/log/33214
+https://hw-by-design.blogspot.com/2018/07/low-cost-vga-terminal-module-project.html
 
 Code in this directory is licensed under "Simplified BSD License"
 
@@ -47,3 +47,8 @@ STM32F030F4/Firmware/
 
 Source code distributed under GPLV3.
 
+--------------------------------------------------------------------------------
+Update:
+Madis Kaal wrote 10/24/2017 at 23:22
+I've branched the code and added VT100 emulation,
+see https://github.com/mastmees/STM32F030F4-VGA
